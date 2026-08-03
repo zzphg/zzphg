@@ -124,7 +124,7 @@ Transformar lógica e código em soluções reais é o que me motiva. Atualmente
   <br>
   <b>Descrição:</b> Jogo interativo desenvolvido do zero (sem frameworks). Possui algoritmo de embaralhamento inteligente, controle de estado de jogo (pares/tentativas) e layout 100% responsivo focado em manipulação direta do DOM.<br>
   <b>Tecnologias:</b> HTML5, CSS3, JavaScript (Vanilla).<br>
-  <b>Link:</b> <a href="https://github.com/zzphq/jogo-da-memoria">Repositório no GitHub</a>
+  <b>Link:</b> <a href="https://github.com/zzphg/jogo-da-memoria">Repositório no GitHub</a>
 </details>
 
 <details>
@@ -132,4 +132,5 @@ Transformar lógica e código em soluções reais é o que me motiva. Atualmente
   <br>
   <b>Descrição:</b> Aplicação web construída como projeto acadêmico para UNIFAN. Focada em operações matemáticas precisas, tratamento de erros e interface amigável.<br>
   <b>Tecnologias:</b> HTML, CSS, JavaScript.<br>
+  <b>Link:</b> <a href="https://github.com/zzphg/calculadora-teste">Repositório no GitHub</a>
 </details>
