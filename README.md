@@ -13,7 +13,7 @@ Me chamo Pedro Henrique Guerreiro Pinto, tenho 20 anos e sou natural da Bahia. C
 Transformar lógica e código em soluções reais é o que me motiva. Atualmente, estou focado em criar aplicações escaláveis e automatizar processos do dia a dia, construindo uma base sólida tanto no **Front-end** quanto no **Back-end**.
 
 - 🎓 Cursando **Engenharia de Software** na UNIFAN (Centro Universitário Nobre).
-- 📍 Baiano de Feira de Santana, 20 anos.
+-  📍 Baiano de Feira de Santana, 20 anos.
 - 💻 Desenvolvendo projetos práticos com **Node.js, JavaScript (ES6+), HTML, CSS e Banco de Dados**.
 - 🤖 Construí um bot completo para WhatsApp utilizando `Puppeteer` e APIs externas.
 - 🌱 Atualmente aprendendo: **React** e aprofundando conhecimentos em **Arquitetura de Software**.
