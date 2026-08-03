@@ -8,7 +8,8 @@
 </p>
 
 
-Me chamo Pedro Henrique Guerreiro Pinto, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio no Colegio Santo Antônio. Atualmente, estou cursando Engenharia de Software na UNIFAN.
+Me chamo Pedro Henrique Guerreiro Pinto, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio no Colegio Santo Antônio. Atualmente, estou cursando Engenharia de Software na UNIFAN. 
+<br/>
 Transformar lógica e código em soluções reais é o que me motiva. Atualmente, estou focado em criar aplicações escaláveis e automatizar processos do dia a dia, construindo uma base sólida tanto no **Front-end** quanto no **Back-end**.
 
 - 🎓 Cursando **Engenharia de Software** na UNIFAN (Centro Universitário Nobre).
@@ -107,25 +108,6 @@ Transformar lógica e código em soluções reais é o que me motiva. Atualmente
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 ### 📂 Projetos em Destaque
 
