@@ -7,7 +7,6 @@
   <a href="mailto:phguerreiropinto18@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
---
 
 Me chamo Pedro Henrique Guerreiro Pinto, tenho 20 anos e sou natural da Bahia. Concluí o ensino médio no Colegio Santo Antônio. Atualmente, estou cursando Engenharia de Software na UNIFAN.
 Transformar lógica e código em soluções reais é o que me motiva. Atualmente, estou focado em criar aplicações escaláveis e automatizar processos do dia a dia, construindo uma base sólida tanto no **Front-end** quanto no **Back-end**.
