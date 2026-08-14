@@ -1,6 +1,6 @@
 # Pedro Henrique
 
-<h3 align="center">Desenvolvedor Web Júnior | Estudante de Engenharia de Software</h3>
+<h3 align="center">Desenvolvedor Web | Estudante de Engenharia de Software</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pedrohenriquegp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
